@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">App2_lasson</string>
+   <string name="hello_world">Привет</string>
+    <string name="menu_settings">Что_то</string>
+    <string name="title_activity_second_activity_app2">Second_activity_app2</string>
+    <string name="second_button_01">First button</string>
+    <string name="second_button_02">Second button</string>
+    
+    
+
+</resources>
